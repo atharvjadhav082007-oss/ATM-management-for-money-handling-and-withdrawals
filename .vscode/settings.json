@@ -1,0 +1,14 @@
+{
+  "C_Cpp.default.compilerPath": "gcc",
+  "C_Cpp.default.cStandard": "c99",
+  "C_Cpp.default.intelliSenseEngine": "Tag Parser",
+  "editor.formatOnSave": true,
+  "[c]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools",
+    "editor.formatOnSave": true
+  },
+  "files.associations": {
+    "*.c": "c",
+    "*.h": "c"
+  }
+}

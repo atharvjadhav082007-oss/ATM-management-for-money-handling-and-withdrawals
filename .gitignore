@@ -1,0 +1,35 @@
+# Compiled binaries
+*.exe
+*.o
+*.a
+*.so
+*.dll
+*.dylib
+
+# Debug files
+*.dSYM/
+*.su
+*.gch
+*.elf
+
+# Object files
+*.obj
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.code-workspace
+
+# Build directories
+build/
+dist/
+bin/
+
+# Temporary files
+*.tmp
+*.log
+*.backup
